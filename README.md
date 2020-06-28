@@ -10,7 +10,7 @@ Spring Boot Demo 是结合日常工作中使用到的技术按单一原则进行
 - IntelliJ IDEA ULTIMATE（Lombok）
 
 ## To Do List
-- [ ] Spring-boot-web (最简单的Web程序 HelloWorld)
+- [X] Spring-boot-restful (最简单的Web程序 HelloWorld)
 - [ ] Spring-boot-mybatis （原生Mybatis）
 - [ ] Spring-boot-mybatisplus （MybatisPlus）
 - [ ] Spring-boot-mybatisplus-extension （MybatisPlus 自定义扩展）
